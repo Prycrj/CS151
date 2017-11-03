@@ -93,8 +93,8 @@ void perimeter(double , double, double , double , double&);
 
 // line 1 -> int s
 // line 8 -> }
-// Line 9 -> int ts;
-// Line 21 -> "/n"
+// Line 12 -> ;
+// Line 20 -> int ts;
 // Line 22 -> "/n"
 // Line 23 -> return 0;
 
